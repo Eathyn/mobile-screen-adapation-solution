@@ -4,9 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "convert-px-to-rem": "postcss src/main.css -o src/output.css -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-pxtorem": "^6.0.0"
+  }
 }

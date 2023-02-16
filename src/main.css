@@ -1,0 +1,13 @@
+body {
+	margin: 0;
+}
+
+.container {
+	display: flex;
+}
+
+.item {
+	width: 37.5px;
+	height: 37.5px;
+	background-color: royalblue;
+}
