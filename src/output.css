@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+}
+
+.container {
+	display: flex;
+}
+
+.item {
+	width: 10vw;
+	height: 10vw;
+	background-color: royalblue;
+}
+
+.big {
+	width: 100vw;
+	height: 8vw;
+	margin-top: 2.66667vw;
+	background-color: darkred;
+}
