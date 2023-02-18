@@ -12,6 +12,6 @@
   "devDependencies": {
     "postcss": "^8.4.21",
     "postcss-cli": "^10.1.0",
-    "postcss-px-to-viewport": "^1.1.1"
+    "postcss-px-to-viewport-8-plugin": "^1.2.0"
   }
 }
